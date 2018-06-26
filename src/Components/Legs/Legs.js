@@ -3,7 +3,7 @@ import './Legs.css';
 
 
 
-
+https://blog.alexdevero.com/create-quick-simple-react-flipping-card/
 
 
 const cardContainer = document.querySelector('.react-card');
