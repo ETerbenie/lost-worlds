@@ -1,0 +1,22 @@
+{/* This can be made into a function that redoes it for any character?
+// const DoBattle = ({attack/*get this from the JSON file, that is clicked*}/, "player 2's attack") => {
+//     if (this.state.attack /*player 1*/ > "some other variable that defines player's attack") {
+//         return this.state.attack
+//     } else {
+//         return "some other variable that defines player's attack"
+//     }
+ //  */}
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
